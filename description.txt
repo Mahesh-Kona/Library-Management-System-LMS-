@@ -1,0 +1,14 @@
+Library Management System(LMS)
+
+This is completely based on our real time library.  Where  you can perform the tasks such as
+
+Displaying all the books in the library
+Search for a book
+Add a book to our library
+Update the details of a book
+Search for a book wether it is there in our library or not
+Issue a book to the reader
+Returning the  book by the reader & it can be done only when this book is issued to that reader
+Remove a book from library
+
+I used python library named PANDAS for this project and also an excel file for storing details of books of the library
